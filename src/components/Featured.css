@@ -1,0 +1,21 @@
+@media(max-width:451px){
+  .aboutmain{
+    height:auto;
+  }
+  .aboutmain1{
+    height:auto;
+    flex-wrap: wrap;
+    height:auto;
+    align-items: center;
+    justify-content: center;
+  }
+  .afirst{
+    margin:20px;
+    width:90%;
+    height:70vh;
+  }
+  .afirstt{
+    width:90%;
+    height:70vh;
+  }
+}

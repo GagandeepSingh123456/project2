@@ -1,0 +1,11 @@
+@media(max-width:451px){
+  .marque{
+    height:50vh;
+    display: flex;
+    align-items: center;
+  }
+  .marque1{
+    height:25vh;
+    font-size: 30vw;
+  }
+}

@@ -1,0 +1,18 @@
+
+@media(max-width:886px){
+   .navbar2 a{
+    display:none;
+   }
+   .menu{
+    display:block;
+   }
+   
+}
+@media(max-width:451px){
+  .menu{
+    font-size: 6vw;
+  }
+  .menu1{
+    font-size: 6vw;
+  }
+}

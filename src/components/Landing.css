@@ -1,0 +1,30 @@
+@media(max-width:451px){
+  .page1{
+    padding-top:20vh;
+  }
+  .headings{
+    font-size: 9vw;
+    padding-left: 20px;
+  }
+  .pageimg{
+    top:11px;
+    height:9vw;
+  }
+  .page1h1{
+    margin-top: 10vh;
+  }
+  .value{
+    flex-wrap: wrap;
+    padding-left: 20px;
+    
+    
+  }
+  .value p{
+    margin-top: 3vw;
+    margin-right: 40px;
+    margin-bottom: 5vh;
+  }
+  .pagelogo{
+    display: none;
+  }
+}

@@ -1,0 +1,27 @@
+@media(max-width:451px){
+  .cluch{
+    height:auto;
+    padding:150px 0;
+  }
+  .cluch1{
+    height:auto; 
+    flex-wrap: wrap; 
+    padding: 20px;
+  }
+  .one{
+    width:100%;
+    height:50vh;
+  }
+ 
+  .two{
+    width:100%;
+    height:50vh;
+  }
+  .three{
+    width:100%;
+    height:50vh;
+  }
+  .three img{
+    width:20vw;
+  }
+}
